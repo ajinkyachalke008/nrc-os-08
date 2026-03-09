@@ -1,14 +1,41 @@
 # 🚨 NRC-OS  
 ## National Response Coordination Operating System
 
-![AI](https://img.shields.io/badge/AI-Powered-blue)
-![Next.js](https://img.shields.io/badge/Next.js-Framework-black)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-AI%20Engine-orange)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-Spatial%20Data-green)
-![Status](https://img.shields.io/badge/Status-Prototype-purple)
-![Hackathon](https://img.shields.io/badge/Built%20For-Hackathon-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+<p align="center">
 
+<img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/OpenRouter-AI%20Engine-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Real--Time-Incident%20Detection-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Emergency-Response%20System-critical?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-Framework-black?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?style=for-the-badge&logo=tailwindcss"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenStreetMap-Spatial%20Intelligence-brightgreen?style=for-the-badge&logo=openstreetmap"/>
+<img src="https://img.shields.io/badge/Telegram-Bot%20Integration-blue?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/API-Multi%20Integration-lightgrey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open-Data%20Sources-enabled-success?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hackathon-Project-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stage-Prototype-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Future-Ready-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
+
+</p>
 ---
 
 # 👨‍💻 Developed By
