@@ -197,17 +197,20 @@ Each incident contains:
 
 ### Example Incidents
 
+
 **Kolhapur Flash Flood**  
 Status: ESCALATING  
 Incident ID: INC-001  
 Phase: Response  
 Severity: Level 4
 
+
 **Pune Urban Flooding**  
 Status: ESCALATING  
 Incident ID: INC-002  
 Phase: Response  
 Severity: Level 3
+
 
 **Nashik Building Collapse**  
 Incident ID: INC-003  
